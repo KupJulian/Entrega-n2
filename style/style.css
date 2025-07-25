@@ -11,3 +11,25 @@ form {
     gap: 10px;
     margin-bottom: 20px;
 }
+
+input,
+button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.turno {
+    background: #f0f0f0;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 5px;
+}
+
+button.eliminar {
+    background-color: crimson;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 5px;
+    cursor: pointer;
+}
